@@ -54,9 +54,7 @@ Die fertige Wordlist wird als wordlist.txt gespeichert.
 Dieses Tool ist für legale PenTests oder Lernzwecke im Ödland. Missbrauch? Vault-Regel 101 verbietet es!
 
 
----
-
-### 2️⃣ Hash Cracker
+ 2️⃣ Hash Cracker
 
 # 🔓 Nachtatem's Hash-Cracker
 
@@ -86,9 +84,7 @@ Nachtatem versucht den Hash zu knacken
 Nur für Testumgebungen oder legale Pentests nutzen. Nachtatem verurteilt keine Vault-Diebe – aber die Gesetzeshüter schon!
 
 
----
-
-### 3️⃣ Passwort-Prüfer**
+ 3️⃣ Passwort-Prüfer
 
 # 🛡️ Nachtatem's Passwort-Prüfer
 
