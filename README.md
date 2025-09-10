@@ -1,19 +1,5 @@
-# Recon-Mini-Toolkit1.2
+# Mini-Pentester-Toolkit
 Nur zu Lernzwecken und für die eigene Testumgebung
-
-Recon-Mini-Toolkit/
-│
-├── README.md                   # Master-Readme fürs gesamte Projekt
-├── Wordlist-Generator/
-│   ├── wordlist_generator.py
-│   └── README.md               # Erklärung, wie das Tool funktioniert
-├── Hash-Cracker/
-│   ├── hash_cracker.py
-│   └── README.md               # Erklärung, wie das Tool funktioniert
-├── Passwort-Pruefer/
-│   ├── password_checker.py
-│   └── README.md               # Erklärung, wie das Tool funktioniert
-
 
 # Recon Mini Toolkit 🛠️
 
